@@ -12,10 +12,7 @@ The SongSeeker Card Generator is a Python script designed to create visual cards
 Before you start using the SongSeeker Card Generator, make sure you have Python installed on your system. The script is tested with Python 3.11 and above. You can download and install Python from [here](https://www.python.org/downloads/).
 
 ## Installation
-Clone the repository to your local machine using the following command:
-```bash
-git clone https://github.com/andygruber/songseeker-card-generator.git
-```
+
 Navigate to the cloned directory:
 ```bash
 cd songseeker-card-generator
